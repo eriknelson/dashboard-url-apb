@@ -11,3 +11,5 @@ plans:
     free: True
     metadata: {}
     parameters: []
+alpha:
+  dashboard_redirect: True

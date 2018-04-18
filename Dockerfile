@@ -5,7 +5,8 @@ LABEL "com.redhat.apb.spec"=\
 IGFwcGxpY2F0aW9uIGdlbmVyYXRlZCBieSBhcGIgaW5pdApiaW5kYWJsZTogRmFsc2UKYXN5bmM6\
 IG9wdGlvbmFsCm1ldGFkYXRhOgogIGRpc3BsYXlOYW1lOiBkZW1vCnBsYW5zOgogIC0gbmFtZTog\
 ZGVmYXVsdAogICAgZGVzY3JpcHRpb246IFRoaXMgZGVmYXVsdCBwbGFuIGRlcGxveXMgZGVtby1h\
-cGIKICAgIGZyZWU6IFRydWUKICAgIG1ldGFkYXRhOiB7fQogICAgcGFyYW1ldGVyczogW10="
+cGIKICAgIGZyZWU6IFRydWUKICAgIG1ldGFkYXRhOiB7fQogICAgcGFyYW1ldGVyczogW10KYWxw\
+aGE6CiAgZGFzaGJvYXJkX3JlZGlyZWN0OiBUcnVlCg=="
 
 COPY playbooks /opt/apb/actions
 COPY roles /opt/ansible/roles
